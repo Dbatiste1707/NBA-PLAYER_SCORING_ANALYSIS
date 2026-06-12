@@ -1,5 +1,5 @@
 # NBA Player Scoring Analysis
-![Assist vs Points](assist_vs_points.png)
+![Assist vs Points](assists_vs_points.png)
 
 ## Project Overview
 
