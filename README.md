@@ -1,6 +1,7 @@
 # NBA Player Scoring Analysis
 ![Assist vs Points](assists_vs_points.png)
-
+![Top Ten Scorers](
+)
 ## Project Overview
 
 This project analyzes NBA player statistics from the 2024-25 season to determine which performance metrics are most strongly associated with scoring production. Using Python, Pandas, Matplotlib, and Scikit-learn, I collected player data, performed exploratory data analysis, created visualizations, and built a machine learning model to predict points per game.
@@ -99,3 +100,14 @@ This project demonstrates the use of data analysis and machine learning techniqu
 * Compare multiple machine learning models.
 * Analyze player salaries versus performance.
 * Expand analysis across multiple NBA seasons.
+
+
+## How to Run
+
+1. Clone the repository
+2. Install required libraries:
+
+pip install pandas matplotlib numpy scikit-learn nba_api
+
+3. Open nba_analysis.ipynb
+4. Run all cells
