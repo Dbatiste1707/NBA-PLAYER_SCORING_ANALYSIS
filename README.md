@@ -1,6 +1,6 @@
 # NBA Player Scoring Analysis
 ![Assist vs Points](assists_vs_points.png)
-![Top Ten Scorers](
+![Top Ten Scorers](Top 10 NBA Players PPG.png)
 )
 ## Project Overview
 
